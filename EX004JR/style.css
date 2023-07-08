@@ -1,0 +1,12 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.bloco {
+    background-color: bisque;
+}
+
+.bloco:nth-child(even) {
+    background-color: lightgrey;
+}
